@@ -56,7 +56,7 @@ Kaggle dataset is used containing information on 426K cars to ensure speed of pr
 4.   Verify data quality if it can help with business objectives
 
 
-Data file at : [](data)
+Data file at : [data_file](data)
 
 **Data understanding report** :
 
