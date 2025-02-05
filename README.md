@@ -56,9 +56,7 @@ Kaggle dataset is used containing information on 426K cars to ensure speed of pr
 4.   Verify data quality if it can help with business objectives
 
 
-The atributes are detailed here :  
-
-Data file at : 
+Data file at : [](data)
 
 **Data understanding report** :
 
@@ -107,6 +105,8 @@ Most missing data are :
 6. Use GridSearchCV with CV = 5 to tune the hyperparameters
 7. Use alpha for Ridge regression [0.001, 1, 10, 100, 1000]
 8. Use polynomial feature of degree 3
+
+  ![](images/data_model.png)
 
 **Findings from the model evaluation**
 
